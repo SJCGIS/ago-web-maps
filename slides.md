@@ -1,147 +1,187 @@
 # SJC GIS Users Group
-	November 12, 2014
-	San Juan County GIS
-	sjcgis@sanjuanco.com
+February 11, 2015
+
+San Juan County GIS
+
+sjcgis@sanjuanco.com
 
 ---
 
-## Powerpoint: Just Say No
-![No Powerpoint](images/no-powerpoint.png)
+## Using ArcGIS Online to create web maps
 
 ---
 
-## Why not Powerpoint?
-![Yet another](images/no-powerpoint-slide1.png)
+## What is ArcGIS Online?
+
+[Link](http://doc.arcgis.com/en/arcgis-online/reference/faq.htm#anchor1)
+
+> ArcGIS Online is a collaborative, cloud-based platform that allows members of an organization to use, create, and share maps, scenes, apps, and data, and access authoritative basemaps and ready-to-use apps. 
+
+
+Note: ArcGIS Online is a collaborative, cloud-based platform that allows members of an organization to use, create, and share maps, scenes, apps, and data, and access authoritative basemaps and ready-to-use apps. 
 
 ---
 
-![Slide 2](images/no-powerpoint-slide2.png)
+## Umm, what?
 
-Note: (Turn around and read off slide)
+![confused-cat](images/confused-cat.jpg)
 
----
-
-![fast-asleep](images/A_man_fast_asleep_with_his_head_back_and_wig_dangling._Colou_Wellcome_V0010878.jpg)
-
-Note: Wow, that was a boring slide. Yet, so many people do it this way. 
+Note: Not up for the buzzwords and lingo? OK. 
 
 ---
 
-## Pro-tip #1
-	Don't read off your slides
+## Simple web map creation
 
-	Images or very short text
+![webmap-cat](images/webmap-cat.jpg)
 
-	Speaker notes (press 'S' to view mine)
-
-Note: Use speaker notes to read from. This is the white text box below your Powerpoint slide and it's only visible to you. Your audience doesn't want to read the entire slide. They should be paying attention to you and only referring to the slide for quick reference.
+Note: ArcGIS Online can be used by Esri customers to make a web map that can be viewed by others.
 
 ---
 
-## Example
+## A web map...
+
+is simple
+
+tells a single story
+
+is easily understood
 
 ---
 
-## Last Summer
-![duct-tape-moving-van](images/duct-tape-moving-van.jpg)
-
-Note: Last summer (2013) we crammed our belongs and cats into our cars and moved from SoCal to SJI. 
+## Parts of a web map
 
 ---
 
-## Then
+## Basemaps
 
-![paige](images/paige-jockey.jpg)
+![Bread](images/256px-Kommissbrot.jpg)
 
-Note: Then we adopted Paige, an ex-racing greyhound. She raced in FL and MA before retiring to SJI. She's super lazy but very friendly.
+Static
 
----
+Provides context
 
-## Still awake? Good!
-
-Note: Keep in mind, laughter is the best way for both you and the audience to feel more comfortable.
+Note: Basemaps are static maps that give context. They can be aerial imagery, street maps, topo maps.
 
 ---
 
-## No more bulleted lists!
+### Esri basemaps
 
-![mario-stops-bullet-bill](images/mario-versus-bullet-bill.jpg)
-
-Note: The default slide in Powerpoint is a bulleted list of points. This is BORING! A better option is to put each point on a separate slide. Perhaps as a title with a poigniant or humorous image. Bullet points can be used to introduce subjects using one or two words.
+![esri-basemaps](images/esri-basemaps.png)
 
 ---
 
-## Picking the right chart
-[Use this diagram to help](http://img.labnol.org/di/choosing_a_good_chart2.pdf)
+### Esri basemaps
 
-Note: Here's a handy diagram showing which chart to use for which data type.
+ + Pretty
 
----
+ + Worldwide
 
-## But pie charts?!?
-![pac-man-pie-chart](images/pacman-pie-chart.jpg)
+ - Not always accurate
 
 ---
 
-## NO!
-![pointless-pie-chart](images/pointless-pie-chart.jpg)
+### San Juan County basemaps
 
-Note: 99% of the time you want a bar chart instead of a pie chart
-
----
-
-## Simple Charts for Slides
-![simple-chart](images/Playfair_TimeSeries-2.jpg)
-
-Note: Use simple charts for slides. These should have large, legible text and be quickly understood by the audience.
+![sjc-basemaps](images/sjc-basemaps.png)
 
 ---
 
-### Handouts for Complex Charts
-![old-chart](images/1838_Perthes_Chart_of_the_Rhine,_Elbe,_and_Order_Rivers_-_Geographicus_-_RheinElbeOder-perthes-1838.jpg)
+### San Juan County basemaps
 
-Note: Put complex charts on handouts or in reports instead of on slides. Refer to a page number in a report if necessary.
+ + Accurate
 
----
+ + Larger scales
 
-# Powerpoint Alternatives
-
- - [Slides.com](http://slides.com)
-
- - [Prezi.com](http://prezi.com)
-
-Note: These are two alternatives to Powerpoint. They rely on internet web applications rather than pricey software. They have free accounts up to a certain amount of storage, above that they price per month. I'm still testing them and haven't explored too deeply.
+ - Only San Juan County
 
 ---
 
-## Slides.com
+## Operational layers
 
-This presentation.
+![Cat Sandwich](images/cat-sandwich.jpg)
 
-'Space' - advance through slides
+Only one or two
 
-'Esc' - view all slides
+Call to attention
 
-Note: Extremely simple framework. Not too difficult to use.
+Note: This is the meat of the sandwich and what you want your audience to focus on. This should tell the story or supply important information.
 
 ---
 
-## Prezi
+![demo time](images/demo-time.png)
 
- - [County Example](https://prezi.com/ncnx6vanshxr/administration/)
+---
 
- - [Free-falling Example](https://prezi.com/d3lswto1mebc/free-falling-through-prezi/)
+## Web *apps*
 
-Note: This has a nice editing interface. But it requires Flash to work, so you'd need to install their free app on tablets to view the presentation.
+Additional capabilities
+
+Examples: legends, filters, editing
+
+Note: Web applications or apps add capabilities to web maps. You can add a legend, a paragraph describing the map, filters, data editors, etc.
+ 
+---
+
+## Making custom web maps is...
+
+![easy button](images/easy-button.jpg)
+
+---
+
+## Custom web *apps* are not
+
+![draw an owl](images/draw-an-owl.jpg)
+
+---
+
+## Fortunately...
+
+---
+
+## Customizable web apps
+
+![web app templates](images/web-app-templates.png)
+
+---
+
+## Another demo
+
+![demolition](images/demolition.gif)
 
 ---
 
 # Thanks
-	San Juan County GIS
-	sjcgis@sanjuanco.com
+San Juan County GIS
+
+sjcgis@sanjuanco.com
 
 ---
 
-## Questions? Comments?
+## Image Attribution
+
+Confused Cat [Mouser Nerdbot](https://www.flickr.com/photos/mouser-nerdbot) [CC-BY-NC-ND-2.0](https://creativecommons.org/licenses/by-nc-nd/2.0/), [via Flickr](https://www.flickr.com/photos/mouser-nerdbot/3177886037/)
+
+Computer Cat [Andrew Curie](https://www.flickr.com/photos/andrewcurrie/) [CC-BY-2.0](https://creativecommons.org/licenses/by/2.0/), [via Flickr](https://www.flickr.com/photos/andrewcurrie/3093640036/)
+
+Bread [Rainer Zenz](//de.wikipedia.org/wiki/User:Rainer_Zenz) [CC-BY-SA-3.0](http://creativecommons.org/licenses/by-sa/3.0/), [via Wikimedia Commons](http://commons.wikimedia.org/wiki/File%3AKommissbrot.jpg)
+
+Cat Sandwich [Kalgani Turner](http://www.flickr.com/photos/kaioshin) [CC-BY-NC-2.0](https://creativecommons.org/licenses/by-nc/2.0/), [via Flickr](http://www.flickr.com/photos/kaioshin/4469404252/)
+
+Demo Time [Mike Rohde](https://www.flickr.com/photos/rohdesign/) [CC-BY-NC-ND-2.0](https://creativecommons.org/licenses/by-nc-nd/2.0/), [via Flickr](https://www.flickr.com/photos/rohdesign/3521269974/)
+
+Easy Button [Civilian Scrabble](https://www.flickr.com/photos/nmcmanus/) [CC-BY-2.0](https://creativecommons.org/licenses/by/2.0/), [via Flickr](https://www.flickr.com/photos/nmcmanus/338391435/)
+
+Demolition by Zunaid [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0), [via Wikimedia Commons](http://commons.wikimedia.org/wiki/File%3AAthlone_cooling_towers_demolition_2010-08-22.gif)
+
+---
+
+## Other Resources
+
+[Tutorial - Get started with ArcGIS Online](http://learn.arcgis.com/en/projects/get-started-with-arcgis-online/)
+
+[Video - Get started with ArcGIS Online](http://video.arcgis.com/watch/3958/get-started-with-arcgis-online)
+
+[Anatomy of a Web Map](http://maptime.io/anatomy-of-a-web-map/)
+
 
 
