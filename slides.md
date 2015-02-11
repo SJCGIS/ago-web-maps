@@ -127,8 +127,8 @@ Note: Web applications or apps add capabilities to web maps. You can add a legen
 ![easy button](images/easy-button.jpg)
 
 ---
-pp
-# Custom web *apps* are not
+
+## Custom web *apps* are not
 
 ![draw an owl](images/draw-an-owl.jpg)
 
