@@ -119,7 +119,7 @@ Additional capabilities
 Examples: legends, filters, editing
 
 Note: Web applications or apps add capabilities to web maps. You can add a legend, a paragraph describing the map, filters, data editors, etc.
- 
+
 ---
 
 ## Making custom web maps is...
@@ -127,8 +127,8 @@ Note: Web applications or apps add capabilities to web maps. You can add a legen
 ![easy button](images/easy-button.jpg)
 
 ---
-
-## Custom web *apps* are not
+pp
+# Custom web *apps* are not
 
 ![draw an owl](images/draw-an-owl.jpg)
 
@@ -152,6 +152,8 @@ Note: Web applications or apps add capabilities to web maps. You can add a legen
 
 # Thanks
 San Juan County GIS
+
+[http://bit.ly/ago-web-maps](http://bit.ly/ago-web-maps)
 
 sjcgis@sanjuanco.com
 
